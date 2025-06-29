@@ -10,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorvxj/Senna-Theme.git"
+  },
   "icon": "images/senna-theme-icon.png",
   "contributes": {
     "themes": [
