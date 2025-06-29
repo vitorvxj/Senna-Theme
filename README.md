@@ -2,9 +2,17 @@
 
 Um tema meticulosamente projetado para o VS Code, onde o minimalismo encontra a profundidade, otimizando seu ambiente de desenvolvimento para performance e foco.
 
-## ☀︎ Pré-visualização
+## Pré-visualização:
 
 ![Pré-visualização do Tema Senna](https://github.com/vitorvxj/Senna-Theme/blob/main/images/senna-theme-interface.png?raw=true)
+
+## Recursos:
+
+-   **Paleta de cores otimizada** para o conforto visual e redução da fadiga.
+-   **Foco em legibilidade e clareza** na sintaxe, com contraste ideal.
+-   **Minimalismo e design limpo** para eliminar a poluição visual.
+-   **Compatibilidade total** com a interface do VS Code.
+-   **Suporte abrangente** a diversas linguagens de programação.
 
 ---
 
@@ -13,30 +21,24 @@ Um tema meticulosamente projetado para o VS Code, onde o minimalismo encontra a 
 ### Via VS Code Marketplace (Recomendado)
 
 1.  Abra o VS Code.
-2.  Vá para a seção de Extensões na barra lateral (ícone de blocos ou `Ctrl + Shift + X`).
+2.  Vá para a seção de Extensões na barra lateral ( ícone de blocos ou `Ctrl + Shift + X` ).
 3.  Pesquise por **"Senna"**.
 4.  Clique em **Instalar**.
-5.  Para ativar o tema, vá em `File > Preferences > Color Theme` (ou `Arquivo > Preferências > Tema de Cores`) e selecione **"Senna"** na lista.
+5.  Para ativar o tema, vá em `File > Preferences > Color Theme` ( ou `Arquivo > Preferências > Tema de Cores` ) e selecione **"Senna"** na lista.
 
 ### Instalação Manual (a partir do arquivo `.vsix`)
 
 1.  Baixe o arquivo `.vsix` da versão mais recente na [página de releases do GitHub](https://github.com/vitorvxj/Senna-Theme/releases).
 2.  No VS Code, vá para a seção de Extensões.
-3.  Clique no ícone de três pontos (`...`) no canto superior direito do painel de Extensões.
-4.  Selecione **"Install from VSIX..."** (`Instalar a partir de VSIX...`).
+3.  Clique no ícone de três pontos ( `...` ) no canto superior direito do painel de Extensões.
+4.  Selecione **"Install from VSIX..."** ( `Instalar a partir de VSIX...` ).
 5.  Navegue até o arquivo `.vsix` que você baixou e selecione-o.
 6.  Reinicie o VS Code, se necessário.
 7.  Para ativar o tema, vá em `File > Preferences > Color Theme` e selecione **"Senna"** na lista.
 
----
+### Versão mais recente:
 
-## ➤ Recursos
-
--   **Paleta de cores otimizada** para o conforto visual e redução da fadiga.
--   **Foco em legibilidade e clareza** na sintaxe, com contraste ideal.
--   **Minimalismo e design limpo** para eliminar a poluição visual.
--   **Compatibilidade total** com a interface do VS Code.
--   **Suporte abrangente** a diversas linguagens de programação.
+**1.0.3 beta**
 
 ---
 
@@ -52,19 +54,16 @@ Este tema não é apenas uma questão de aparência; é uma ferramenta para a **
 
 ---
 
+## 📜 Licença
+
+Este projeto está licenciado sob a **[GNU General Public License v3.0](LICENSE.md)**.
+
+---
+
 ## 🌌 Contemplação
 
 > "Em um universo de constantes mudanças, a ordem persiste na disciplina. Que o seu trabalho seja um reflexo do progresso, uma busca incessante por um futuro que nos pertencerá..."
 
----
 
-## 📜 Licença
 
-Este projeto está licenciado sob a **[GNU General Public License v3.0](LICENSE)**.
-
----
-
-## Versão Atual » ⟡
-
-**1.0.3 beta**
 
