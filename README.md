@@ -8,19 +8,19 @@ Apresento um tema meticulosamente projetado para o VS Code, onde o minimalismo s
 
 ## Instalação
 [ maketplace ]
-1. -Vá para a seção de Extensões (clique no ícone de "Extensions" na barra lateral ou use Ctrl + Shift + X).
-2.  Pesquise por "Nome do Seu Tema".
-3.  Clique em Instalar.
-4.  Para ativar o tema, vá em File > Preferences > Color Theme (Arquivo > Preferências > Tema de Cores) e selecione "Nome do Seu Tema" na lista.
+1. Vá para a seção de Extensões (clique no ícone de "Extensions" na barra lateral ou use Ctrl + Shift + X).
+2. Pesquise por "Nome do Seu Tema".
+3. Clique em Instalar.
+4. Para ativar o tema, vá em File > Preferences > Color Theme (Arquivo > Preferências > Tema de Cores) e selecione "Nome do Seu Tema" na lista.
 
 [ manual ]
-1.  Baixe o arquivo .vsix do tema a partir da página de releases no GitHub.
-2.  No VS Code, vá para a seção de Extensões.
-3.  Clique nos três pontos (...) no canto superior direito do painel de Extensões.
-4.  Selecione "Install from VSIX..." (Instalar a partir de VSIX...).
-5.  Navegue até o arquivo .vsix que você baixou e selecione-o.
-6.  Reinicie o VS Code, se necessário.
-7.  Para ativar o tema, vá em File > Preferences > Color Theme e selecione "Nome do Seu Tema" na lista.
+1. Baixe o arquivo .vsix do tema a partir da página de releases no GitHub.
+2. No VS Code, vá para a seção de Extensões.
+3. Clique nos três pontos (...) no canto superior direito do painel de Extensões.
+4. elecione "Install from VSIX..." (Instalar a partir de VSIX...).
+5. Navegue até o arquivo .vsix que você baixou e selecione-o.
+6. Reinicie o VS Code, se necessário.
+7. Para ativar o tema, vá em File > Preferences > Color Theme e selecione "Nome do Seu Tema" na lista.
 
 ## Recursos
 - Paleta de cores otimizada para o conforto visual.
