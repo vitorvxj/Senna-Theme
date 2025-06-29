@@ -1,28 +1,27 @@
 
 # Um Tema de Vanguarda para o Workflow
-
 Apresento um tema meticulosamente projetado para o VS Code, onde o minimalismo se encontra com a profundidade, otimizando seu ambiente de desenvolvimento.
 
-## Pré-visualização
+## Pré-visualização:
 ![SINTAX and INTERFACE!](images/senna-theme-interface.png)
 
-## Instalação
-[ maketplace ]
-1. Vá para a seção de Extensões (clique no ícone de "Extensions" na barra lateral ou use Ctrl + Shift + X).
+## Instalação:
+- [ Marketplace ]
+1. Vá para a seção de Extensões ( clique no ícone de "Extensions" na barra lateral ou use Ctrl + Shift + X ).
 2. Pesquise por "Nome do Seu Tema".
 3. Clique em Instalar.
-4. Para ativar o tema, vá em File > Preferences > Color Theme (Arquivo > Preferências > Tema de Cores) e selecione "Nome do Seu Tema" na lista.
+4. Para ativar o tema, vá em File > Preferences > Color Theme ( Arquivo > Preferências > Tema de Cores ) e selecione "Nome do Seu Tema" na lista.
 
-[ manual ]
+- [ Manual ]
 1. Baixe o arquivo .vsix do tema a partir da página de releases no GitHub.
 2. No VS Code, vá para a seção de Extensões.
 3. Clique nos três pontos (...) no canto superior direito do painel de Extensões.
-4. elecione "Install from VSIX..." (Instalar a partir de VSIX...).
+4. Selecione "Install from VSIX..." ( Instalar a partir de VSIX... ).
 5. Navegue até o arquivo .vsix que você baixou e selecione-o.
 6. Reinicie o VS Code, se necessário.
 7. Para ativar o tema, vá em File > Preferences > Color Theme e selecione "Nome do Seu Tema" na lista.
 
-## Recursos
+## Recursos:
 - Paleta de cores otimizada para o conforto visual.
 - Foco em legibilidade e sintaxe de alta clareza.
 - Compatibilidade total com a interface do VS Code.
@@ -36,10 +35,9 @@ A paleta de cores é uma composição de tons escuros e suaves, pensada para red
 ## Performance e Mente
 Este tema não é apenas uma questão de aparência; é uma ferramenta para performance. Ele encapsula a disciplina e a velocidade necessárias para o desempenho máximo, semelhante à precisão de um piloto em um circuito. A intenção é transformar a tela em uma pista de corrida mental, onde cada linha de código é um avanço em direção à conclusão de um projeto.
 
-
 ## A Contemplação do Código
 Em um universo de constantes mudanças, a ordem persiste na disciplina. Que o seu trabalho seja um reflexo do progresso, uma busca incessante por um futuro que nos pertence.
 
-## Versão:
-[ 1.0.1 beta ]
+## Versão mais rescente:
+[ 1.0.2 beta ]
 
