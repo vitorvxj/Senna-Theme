@@ -2,7 +2,7 @@
 
 Um tema meticulosamente projetado para o VS Code, onde o minimalismo encontra a profundidade, otimizando seu ambiente de desenvolvimento para performance e foco.
 
-### Pré-visualização:
+## Pré-visualização:
 
 ![Pré-visualização do Tema Senna](https://github.com/vitorvxj/Senna-Theme/blob/main/images/senna-theme-interface.png?raw=true)
 
@@ -38,7 +38,7 @@ Um tema meticulosamente projetado para o VS Code, onde o minimalismo encontra a 
 
 ### Versão mais recente:
 
-- [ 1.0.3 beta ]
+- [ **1.0.3 beta** ]
 
 ---
 
@@ -54,11 +54,9 @@ Este tema não é apenas uma questão de aparência; é uma ferramenta para a **
 
 ---
 
-### 📜 Licença
+## 📜 Licença
 
 Este projeto está licenciado sob a **[GNU General Public License v3.0](LICENSE.md)**.
-
----
 
 ## 🌌 Contemplação
 
