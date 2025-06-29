@@ -6,7 +6,7 @@ Um tema meticulosamente projetado para o VS Code, onde o minimalismo encontra a 
 
 ![Pré-visualização do Tema Senna](https://github.com/vitorvxj/Senna-Theme/blob/main/images/senna-theme-interface.png?raw=true)
 
-### Recursos:
+## Recursos:
 
 -   **Paleta de cores otimizada** para o conforto visual e redução da fadiga.
 -   **Foco em legibilidade e clareza** na sintaxe, com contraste ideal.
@@ -52,15 +52,16 @@ Sem cores agressivas, o tema cria um ambiente de trabalho sereno, essencial para
 
 Este tema não é apenas uma questão de aparência; é uma ferramenta para a **performance**. Ele encapsula a disciplina e a velocidade necessárias para o desempenho máximo, semelhante à precisão de um piloto em um circuito. A intenção é transformar a tela em uma pista de corrida, onde cada linha de código é um avanço em direção à conclusão de um projeto.
 
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a **[GNU General Public License v3.0](LICENSE.md)**.
-
 ## 🌌 Contemplação
 
 > "Em um universo de constantes mudanças, a ordem persiste na disciplina. Que o seu trabalho seja um reflexo do progresso, uma busca incessante por um futuro que nos pertencerá..."
+
+---
+
+### 📜 Licença
+
+Este projeto está licenciado sob a **[GNU General Public License v3.0](LICENSE.md)**.
+
 
 
 
