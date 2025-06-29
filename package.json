@@ -1,0 +1,23 @@
+{
+  "name": "senna-theme", 
+  "displayName": "Senna Theme",
+  "description": "Escuro, limpo e objetivo! Poluição visual zero.",
+  "version": "1.0.1",
+  "publisher": "vitorvxj",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/senna-theme-icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Senna Theme", 
+        "uiTheme": "vs-dark",    
+        "path": "./themes/SennaTheme.json"
+      }
+    ]
+  }
+}
