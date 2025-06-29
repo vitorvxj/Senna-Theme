@@ -1,14 +1,36 @@
 {
   "name": "senna-theme", 
   "displayName": "Senna Theme",
-  "description": "Escuro, limpo e objetivo! Poluição visual zero.",
-  "version": "1.0.2",
+  "description": "Escuro, limpo e objetivo!",
+  "version": "1.0.3",
   "publisher": "vitorvxj",
+  "author": "João Vítor - XJ <joaovitorsilvaalves.p@outlook.com>",
   "engines": {
     "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "senna",
+    "dark",
+    "clean",
+    "minimal",
+    "black",
+    "theme",
+    "color-theme",
+    "gothic",
+    "contrast",
+    "professional",
+    "simple",
+    "syntax",
+    "developer",
+    "vsc",
+    "vsc-theme",
+    "ui-theme",
+    "syntax-highlighting",
+    "elegant",
+    "sleek"
   ],
   "repository": {
     "type": "git",
