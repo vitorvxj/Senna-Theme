@@ -22,9 +22,9 @@ Um tema meticulosamente projetado para o VS Code, onde o minimalismo encontra a 
 
 1.  Abra o VS Code.
 2.  Vá para a seção de Extensões na barra lateral ( ícone de blocos ou `Ctrl + Shift + X` ).
-3.  Pesquise por **"Senna"**.
+3.  Pesquise por **"Senna Theme"**.
 4.  Clique em **Instalar**.
-5.  Para ativar o tema, vá em `File > Preferences > Color Theme` ( ou `Arquivo > Preferências > Tema de Cores` ) e selecione **"Senna"** na lista.
+5.  Para ativar o tema, vá em `File > Preferences > Color Theme` ( ou `Arquivo > Preferências > Tema de Cores` ) e selecione **"Senna Theme"** na lista.
 
 ### Instalação Manual (a partir do arquivo `.vsix`)
 
