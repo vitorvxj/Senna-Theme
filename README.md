@@ -28,13 +28,13 @@ Um tema meticulosamente projetado para o VS Code, onde o minimalismo encontra a 
 
 ### Instalação Manual (a partir do arquivo `.vsix`)
 
-1.  Baixe o arquivo `.vsix` da versão mais recente na [página de releases do GitHub](https://github.com/vitorvxj/Senna-Theme/releases).
+1.  Baixe o arquivo `.vsix` com a versão mais recente na [página de releases do GitHub](https://github.com/vitorvxj/Senna-Theme/releases).
 2.  No VS Code, vá para a seção de Extensões.
 3.  Clique no ícone de três pontos ( `...` ) no canto superior direito do painel de Extensões.
 4.  Selecione **"Install from VSIX..."** ( `Instalar a partir de VSIX...` ).
 5.  Navegue até o arquivo `.vsix` que você baixou e selecione-o.
 6.  Reinicie o VS Code, se necessário.
-7.  Para ativar o tema, vá em `File > Preferences > Color Theme` e selecione **"Senna"** na lista.
+7.  Para ativar o tema, vá em `File > Preferences > Color Theme` e selecione **"Senna Theme"** na lista.
 
 ### Versão mais recente:
 
