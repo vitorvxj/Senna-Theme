@@ -1,1 +1,7 @@
+.vscode/
+.DS_Store
+.gitignore
 *.vsix
+*.log
+node_modules/
+npm-debug.log
