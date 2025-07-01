@@ -1,4 +1,9 @@
 .vscode/
+.git/
+.gitignore
 .vscodeignore
-README.md
-package.json
+node_modules/
+*.vsix
+*.log
+*.zip
+npm-debug.log
