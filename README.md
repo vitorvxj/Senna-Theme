@@ -58,10 +58,6 @@ Este tema não é apenas uma questão de aparência; é uma ferramenta para a **
 
 ---
 
-### 📜 Licença
-
-Este projeto está licenciado sob a **[GNU General Public License v3.0](LICENSE.md)**.
-
 ### Feedback e Avaliação
 
 Sua opinião é importante! Se tiver sugestões, encontrou algum problema ou simplesmente quer compartilhar sua experiência com o Senna Theme, por favor, utilize os canais abaixo:
@@ -69,3 +65,7 @@ Sua opinião é importante! Se tiver sugestões, encontrou algum problema ou sim
 * **[Relatar Problemas / Sugerir Melhorias](https://github.com/vitorvxj/Senna-Theme/issues)**
 
 * **[Avalie no Marketplace](https://marketplace.visualstudio.com/items?itemName=vitorvxj.senna-theme&ssr=false#review-details)**
+
+### 📜 Licença
+
+Este projeto está licenciado sob a **[GNU General Public License v3.0](LICENSE.md)**.
