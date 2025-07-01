@@ -62,6 +62,17 @@ Este tema não é apenas uma questão de aparência; é uma ferramenta para a **
 
 Este projeto está licenciado sob a **[GNU General Public License v3.0](LICENSE.md)**.
 
+## Feedback e Avaliação
+
+Sua opinião é muito importante para nós! Se você tiver sugestões, encontrar algum problema ou simplesmente quiser compartilhar sua experiência com o Senna Theme, por favor, utilize os canais abaixo:
+
+* **Relatar Problemas / Sugerir Melhorias:**
+    * Para bugs, erros visuais, ou para sugerir novas funcionalidades e aprimoramentos, abra um **[Issue em nosso repositório GitHub](https://github.com/vitorvxj/Senna-Theme/issues)**. Por favor, forneça o máximo de detalhes possível para que possamos investigar e agir.
+
+* **Avalie no Marketplace:**
+    * Se você gostou do Senna Theme, por favor, considere deixar uma **[avaliação e um review na página do tema no Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=vitorvxj.senna-theme&ssr=false#review-details)**. Sua avaliação ajuda outros desenvolvedores a descobrirem o tema e nos incentiva a continuar aprimorando!
+
+
 
 
 
